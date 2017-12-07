@@ -1,0 +1,9 @@
+beautifulsoup4==4.6.0
+idna==2.6
+ipdb==0.10.3
+nltk==3.2.5
+numpy==1.13.3
+requests==2.18.4
+six==1.11.0
+tensorflow==1.4.0
+
