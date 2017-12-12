@@ -220,7 +220,7 @@ if __name__ == '__main__':
         if args.train:
             batches, _, _ = get_batches(train0, train1, vocab.word2id,
                 args.batch_size)
-            random.shuffle(batches)
+            # random.shuffle(batches)
 
             start_time = time.time()
             step = 0
